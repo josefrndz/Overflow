@@ -1,3 +1,3 @@
 A social network for software developers.
 
-The name is a nod to popualar online developer community, StackOverflow.
+The name is a nod to popular online developer community, StackOverflow.
